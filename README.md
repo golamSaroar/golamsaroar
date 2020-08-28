@@ -3,17 +3,19 @@
 </p>
 
 <p align="center">
- <img src="https://badges.pufler.dev/visits/golamsaroar/django-blog">
- <img src="https://badges.pufler.dev/years/golamsaroar">
- <img src="https://badges.pufler.dev/repos/golamsaroar">
- <img src="https://badges.pufler.dev/gists/golamsaroar">
- <img src="https://badges.pufler.dev/updated/golamsaroar/django-blog">
+ <!-- <a href="https://github.com/golamSaroar/golamsaroar"><img src="https://badges.pufler.dev/visits/golamsaroar/golamsaroar"></a> -->
+ <!-- <img src="https://badges.pufler.dev/years/golamsaroar"> -->
+ <a href="https://github.com/golamSaroar?tab=repositories"><img src="https://badges.pufler.dev/repos/golamsaroar"></a>
+ <a href="https://gist.github.com/golamSaroar"><img src="https://badges.pufler.dev/gists/golamsaroar"></a>
  <img src="https://badges.pufler.dev/commits/monthly/golamsaroar">
+ <a href="https://github.com/golamSaroar/golamsaroar"><img src="https://badges.pufler.dev/updated/golamsaroar/golamsaroar"></a>
+ <a href="https://github.com/golamsaroar/?tab=followers"><img src="https://img.shields.io/github/followers/golamsaroar?label=Followers&color=success"></a>
 </p>
 
 I am from Dhaka, Bangladesh, 🇧🇩 — currently working as a Machine Learning Engineer at <a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/DSInnovators/hovercard" href="https://github.com/DSInnovators">@DSInnovators</a>. I help businesses process their data and glean insights from those in order to improve their products and services and better reach their target markets.
 
 ## 🌯 Summary
+
 - 💻 Currently working on machine learning, deep learning, and data science projects.
 - 👨🏼‍💻 Skilled in Python, Java, SQL, JavaScript, Tensorflow, AWS, Docker, Git, Linux OS, and more.
 - 👀 Looking to collaborate on projects related to deep learning, analytics and data science.
@@ -27,6 +29,7 @@ I am from Dhaka, Bangladesh, 🇧🇩 — currently working as a Machine Learnin
 </p>
 
 ## 🔖 Featured Projects
+
 <p align="center">
   <a href="https://github.com/golamSaroar/facial-expression-detection">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=golamsaroar&repo=facial-expression-detection&theme=graywhite" />
@@ -36,10 +39,11 @@ I am from Dhaka, Bangladesh, 🇧🇩 — currently working as a Machine Learnin
   </a>
 </p>
 
-## 🤝 How to Reach Me
+## 📫 How to Reach Me
+
 <p align="center">
  <a href="http://golamsaroar.com/">
-  <img src="https://img.shields.io/badge/golamsaroar.com-%23206a5d.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/golamsaroar.com-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
  </a>
  <a href="https://www.linkedin.com/in/iamsaroar/">
   <img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -48,7 +52,7 @@ I am from Dhaka, Bangladesh, 🇧🇩 — currently working as a Machine Learnin
   <img src="https://img.shields.io/badge/chat-%2300AFF0.svg?&style=for-the-badge&logo=skype&logoColor=white" />
  </a>
  <a href="mailto:emailsaroar@gmail.com">
-  <img src="https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <img src="https://img.shields.io/badge/email-%23C14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
  </a>
 </p>
 
