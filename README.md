@@ -12,14 +12,14 @@
  <a href="https://github.com/golamsaroar/?tab=followers"><img src="https://img.shields.io/github/followers/golamsaroar?label=Followers&color=success"></a>
 </p>
 
-I am from Dhaka, Bangladesh, 🇧🇩 — currently working as a Machine Learning Engineer at <a class="user-mention" data-hovercard-type="organization" data-hovercard-url="/orgs/DSInnovators/hovercard" href="https://github.com/DSInnovators">@DSInnovators</a>. I help businesses process their data and glean insights from those in order to improve their products and services and better reach their target markets.
+I am from Dhaka, Bangladesh, 🇧🇩 — currently working as a Software Engineer - Machine Learning at <a href="https://github.com/DSInnovators">@DSInnovators</a>. I help businesses process their data and glean insights from those in order to improve their products and services and better reach their target markets.
 
 ## 🌯 Summary
 
 - 💻 Currently working on machine learning, deep learning, and data science projects.
-- 👨🏼‍💻 Skilled in Python, Java, SQL, JavaScript, Tensorflow, AWS, Docker, Git, Linux OS, and more.
-- 👀 Looking to collaborate on projects related to deep learning, analytics and data science.
-- 💬 Open to questions about software engineering, data science, as well as projects I've worked on.
+- 👨🏼‍💻 Skilled in Python, Java, JavaScript, SQL, Tensorflow, AWS, Docker, Git, and more.
+- 👀 Looking to collaborate on projects related to deep learning in image recognition and natural language processing.
+- 💬 Open to questions about software engineering, machine learning, data science, as well as projects I've worked on.
 - 🌱 Currently learning [Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
 - 📖 Passionate reader of Bengali literature.
 
