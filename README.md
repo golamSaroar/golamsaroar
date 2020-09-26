@@ -123,5 +123,5 @@ HTML                     1 repos             ░░░░░░░░░░░�
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com//puf17640/git-badges/issues/19) in [puf17640/git-badges](https://github.com//puf17640/git-badges)
+1. 🗣 Commented on [#19](https://github.com/puf17640/git-badges/issues/19) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
 <!--END_SECTION:activity-->
