@@ -3,12 +3,9 @@
 </p>
 
 <p align="center">
- <!-- <a href="https://github.com/golamSaroar/golamsaroar"><img src="https://badges.pufler.dev/visits/golamsaroar/golamsaroar"></a> -->
- <!-- <img src="https://badges.pufler.dev/years/golamsaroar"> -->
- <a href="https://github.com/golamSaroar?tab=repositories"><img src="https://badges.pufler.dev/repos/golamsaroar"></a>
+ <img src="https://img.shields.io/github/last-commit/golamSaroar/golamsaroar">
  <a href="https://gist.github.com/golamSaroar"><img src="https://badges.pufler.dev/gists/golamsaroar"></a>
- <img src="https://badges.pufler.dev/commits/monthly/golamsaroar">
- <a href="https://github.com/golamSaroar/golamsaroar"><img src="https://badges.pufler.dev/updated/golamsaroar/golamsaroar"></a>
+ <a href="https://github.com/golamSaroar?tab=repositories"><img src="https://img.shields.io/github/stars/golamSaroar?affiliations=OWNER%2CCOLLABORATOR&color=success"></a>
  <a href="https://github.com/golamsaroar/?tab=followers"><img src="https://img.shields.io/github/followers/golamsaroar?label=Followers&color=success"></a>
 </p>
 
