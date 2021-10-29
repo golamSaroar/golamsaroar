@@ -9,7 +9,7 @@
  <a href="https://github.com/golamsaroar/?tab=followers"><img src="https://img.shields.io/github/followers/golamsaroar?label=Followers&color=success"></a>
 </p>
 
-I am from Bangladesh 🇧🇩 — currently living in Toronto, Canada :canada: At the moment, I am a Master's student in the Computer Science program at York University. I am also working as a Graduate Research Assistant and a Teaching Assistant at the university. Previously I worked as both a Software Engineer, and a Machine Learning Engineer at <a href="https://github.com/DSInnovators">@DSInnovators</a>.
+I am from Bangladesh 🇧🇩 — currently living in Toronto, Canada :canada: At present, I am a Master's student in the Computer Science program at York University. I am also working as a Graduate Research Assistant and a Teaching Assistant at the university. Previously I worked for four years as a Software Engineer at <a href="https://github.com/DSInnovators">@DSInnovators</a>.
 
 ## 🌯 Summary
 
