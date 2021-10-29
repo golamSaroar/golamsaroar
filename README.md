@@ -9,11 +9,11 @@
  <a href="https://github.com/golamsaroar/?tab=followers"><img src="https://img.shields.io/github/followers/golamsaroar?label=Followers&color=success"></a>
 </p>
 
-I am from Dhaka, Bangladesh, 🇧🇩 — currently working as a Software Engineer - Machine Learning at <a href="https://github.com/DSInnovators">@DSInnovators</a>. I help businesses process their data and glean insights from those in order to improve their products and services and better reach their target markets.
+I am from Bangladesh 🇧🇩 — currently living in Toronto, Canada :canada: At the moment, I am a Master's student in the Computer Science program at York University. I am also working as a Graduate Research Assistant and a Teaching Assistant at the university. Previously I worked as both a Software Engineer, and a Machine Learning Engineer at <a href="https://github.com/DSInnovators">@DSInnovators</a>.
 
 ## 🌯 Summary
 
-- 💻 Currently working on machine learning, deep learning, and data science projects.
+- 💻 Currently doing my Master's at York University, learning something new every day.
 - 👨🏼‍💻 Skilled in Python, Java, JavaScript, SQL, Tensorflow, AWS, Docker, Git, and more.
 - 👀 Looking to collaborate on projects related to deep learning in image recognition and natural language processing.
 - 💬 Open to questions about software engineering, machine learning, data science, as well as projects I've worked on.
