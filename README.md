@@ -45,70 +45,19 @@ I am from Bangladesh 🇧🇩 — currently living in Toronto, Canada :canada: A
  <a href="https://www.linkedin.com/in/iamsaroar/">
   <img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <a href="https://join.skype.com/invite/kMn3ZnbRcdFS">
-  <img src="https://img.shields.io/badge/chat-%2300AFF0.svg?&style=for-the-badge&logo=skype&logoColor=white" />
- </a>
  <a href="mailto:emailsaroar@gmail.com">
   <img src="https://img.shields.io/badge/email-%23C14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
  </a>
 </p>
 
-## 📈 My Programming Stats
+<!-- ## 📈 My Programming Stats -->
 
 <p align="center">
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coder GIF" width="500" height="400">
 </p>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
-🌆 Daytime    102 commits    ████████░░░░░░░░░░░░░░░░░   32.28% 
-🌃 Evening    91 commits     ███████░░░░░░░░░░░░░░░░░░   28.8% 
-🌙 Night      76 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
-Tuesday      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
-Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.04% 
-Thursday     90 commits     ███████░░░░░░░░░░░░░░░░░░   28.48% 
-Friday       23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.28% 
-Saturday     35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
-Sunday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.97%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-SQL                      2 hrs 38 mins       ████████████████████████░   96.38% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         29 repos            ███████████████░░░░░░░░░░   60.42% 
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
-
-```
-
-
-
- Last Updated on 21/08/2021
 <!--END_SECTION:waka-->
 
 ## :zap: Recent Activity
