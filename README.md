@@ -8,7 +8,7 @@
  <a href="https://github.com/golamsaroar/?tab=followers"><img src="https://img.shields.io/github/followers/golamsaroar?label=Followers&color=success"></a>
 </p>
 
-I'm a Computer Science Master's graduate originally from Bangladesh 🇧🇩, now living in Toronto, Canada :canada:. I have a background in both industry and academia, having previously worked as a Research Assistant at York University and as a Software Engineer at <a href="https://github.com/DSInnovators">@DSInnovators</a>. I have a passion for Machine Learning, Data Science, and Web Development, and I am excited to continue pursuing these interests in my future endeavors.
+I'm a recent Computer Science Master's graduate from York University, currently living in Toronto, Canada :canada:. I have a background in both industry and academia, having previously worked as a Research Assistant at York University and as a Software Engineer at <a href="https://github.com/DSInnovators">@DSInnovators</a>. I have a passion for Machine Learning, Data Science, and Web Development, and I am excited to continue pursuing these interests in my future endeavors.
 
 ## 🌯 Summary
 
