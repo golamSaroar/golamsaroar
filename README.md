@@ -4,17 +4,16 @@
 
 <p align="center">
  <img src="https://img.shields.io/github/last-commit/golamSaroar/golamsaroar">
- <a href="https://gist.github.com/golamSaroar"><img src="https://badges.pufler.dev/gists/golamsaroar"></a>
  <a href="https://github.com/golamSaroar?tab=repositories"><img src="https://img.shields.io/github/stars/golamSaroar?affiliations=OWNER%2CCOLLABORATOR&color=success"></a>
  <a href="https://github.com/golamsaroar/?tab=followers"><img src="https://img.shields.io/github/followers/golamsaroar?label=Followers&color=success"></a>
 </p>
 
-I am from Bangladesh 🇧🇩 — currently living in Toronto, Canada :canada: At present, I am a Master's student in the Computer Science program at York University. I am also working as a Graduate Research Assistant and a Teaching Assistant at the university. Previously I worked for four years as a Software Engineer at <a href="https://github.com/DSInnovators">@DSInnovators</a>.
+I'm a Computer Science Master's graduate originally from Bangladesh 🇧🇩, now living in Toronto, Canada :canada:. I have a background in both industry and academia, having previously worked as a Research Assistant at York University and as a Software Engineer at <a href="https://github.com/DSInnovators">@DSInnovators</a>. I have a passion for Machine Learning, Data Science, and Web Development, and I am excited to continue pursuing these interests in my future endeavors.
 
 ## 🌯 Summary
 
-- 💻 Currently doing my Master's at York University, learning something new every day.
-- 👨🏼‍💻 Skilled in Python, Java, JavaScript, SQL, Tensorflow, AWS, Docker, Git, and more.
+- 💻 Recently completed my Master's in Computer Science from York University, seeking new opportunities now.
+- 👨🏼‍💻 Skilled in Python, Java, JavaScript, SQL, Tensorflow, AWS, Docker, Kubernetes, Git, and more.
 - 👀 Looking to collaborate on projects related to deep learning in image recognition and natural language processing.
 - 💬 Open to questions about software engineering, machine learning, data science, as well as projects I've worked on.
 - 🌱 Currently learning [Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
@@ -71,7 +70,7 @@ I am from Bangladesh 🇧🇩 — currently living in Toronto, Canada :canada: A
 <!--RECENT_ACTIVITY:end-->
 
 <p align = "center">
- [![GitHub Streak](https://streak-stats.demolab.com/?user=golamSaroar)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=golamSaroar" alt="GitHub Streak"></a>
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
