@@ -113,6 +113,6 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 ## :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/puf17640/git-badges/issues/19) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
