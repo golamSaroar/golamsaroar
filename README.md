@@ -114,5 +114,13 @@ TeX                      2 repos             █░░░░░░░░░░�
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
+2. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
+3. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)<br>
+4. ⭐ Starred [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)<br>
+5. <br>
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Monday, April 24th, 2023, 1:26:20 AM
+<!--RECENT_ACTIVITY:last_update_end-->
