@@ -70,6 +70,8 @@ I am from Bangladesh 🇧🇩 — currently living in Toronto, Canada :canada: A
 5. <br>
 <!--RECENT_ACTIVITY:end-->
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=golamSaroar)](https://git.io/streak-stats)
+
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Monday, April 24th, 2023, 1:26:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
