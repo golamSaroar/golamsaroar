@@ -62,11 +62,11 @@ I'm a recent Computer Science Master's graduate from York University, currently 
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
+1. ❗️ Opened issue [#167](https://github.com/Bloggify/github-calendar/issues/167) in [Bloggify/github-calendar](https://github.com/Bloggify/github-calendar)<br>
 2. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
-3. ⭐ Starred [huggingface/transformers](https://github.com/huggingface/transformers)<br>
-4. ⭐ Starred [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)<br>
-5. <br>
+3. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
+4. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
+5. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align = "center">
@@ -74,5 +74,5 @@ I'm a recent Computer Science Master's graduate from York University, currently 
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 24th, 2023, 1:26:20 AM
+Last Updated: Tuesday, April 25th, 2023, 2:00:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
