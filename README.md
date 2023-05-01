@@ -62,8 +62,8 @@ I'm a recent Computer Science Master's graduate from York University, currently 
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#167](https://github.com/Bloggify/github-calendar/issues/167) in [Bloggify/github-calendar](https://github.com/Bloggify/github-calendar)<br>
-2. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
+1. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
+2. ❗️ Opened issue [#167](https://github.com/Bloggify/github-calendar/issues/167) in [Bloggify/github-calendar](https://github.com/Bloggify/github-calendar)<br>
 3. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
 4. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
 5. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
@@ -74,5 +74,5 @@ I'm a recent Computer Science Master's graduate from York University, currently 
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 30th, 2023, 2:01:35 AM
+Last Updated: Monday, May 1st, 2023, 2:01:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
