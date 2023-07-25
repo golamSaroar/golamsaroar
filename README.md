@@ -63,10 +63,6 @@ I'm a recent Computer Science Master's graduate from York University, currently 
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
-2. ❗️ Opened issue [#167](https://github.com/Bloggify/github-calendar/issues/167) in [Bloggify/github-calendar](https://github.com/Bloggify/github-calendar)<br>
-3. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
-4. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
-5. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align = "center">
@@ -74,5 +70,5 @@ I'm a recent Computer Science Master's graduate from York University, currently 
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 24th, 2023, 2:03:15 AM
+Last Updated: Tuesday, July 25th, 2023, 2:14:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
