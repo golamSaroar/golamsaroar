@@ -62,7 +62,6 @@ I'm a recent Computer Science Master's graduate from York University, currently 
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align = "center">
@@ -70,5 +69,5 @@ I'm a recent Computer Science Master's graduate from York University, currently 
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 1st, 2023, 2:06:37 AM
+Last Updated: Wednesday, August 2nd, 2023, 1:52:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
