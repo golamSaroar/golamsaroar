@@ -8,15 +8,14 @@
  <a href="https://github.com/golamsaroar/?tab=followers"><img src="https://img.shields.io/github/followers/golamsaroar?label=Followers&color=success"></a>
 </p>
 
-I'm a recent Computer Science Master's graduate from York University, currently living in Toronto, Canada :canada:. I have a background in both industry and academia, having previously worked as a Research Assistant at York University and as a Software Engineer at <a href="https://github.com/DSInnovators">@DSInnovators</a>. I have a passion for Machine Learning, Data Science, and Web Development, and I am excited to continue pursuing these interests in my future endeavors.
+I'm a recent Computer Science Master's graduate from York University, currently living in Toronto, Canada :canada:. Prior to graduate studies, I worked as a Software Engineer at <a href="https://github.com/DSInnovators">@DSInnovators</a>. I am skilled in both frontend and backend development, and passionate about designing and building secure and scalable software systems. I am also interested in Machine Learning, and Data Science.
 
 ## 🌯 Summary
 
 - 💻 Recently completed my Master's in Computer Science from York University, seeking new opportunities now.
-- 👨🏼‍💻 Skilled in Python, Java, JavaScript, SQL, Tensorflow, AWS, Docker, Kubernetes, Git, and more.
-- 👀 Looking to collaborate on projects related to deep learning in image recognition and natural language processing.
+- 👨🏼‍💻 Skilled in Java, JavaScript, Python, SQL, Tensorflow, AWS, Docker, Kubernetes, Git, and more.
 - 💬 Open to questions about software engineering, machine learning, data science, as well as projects I've worked on.
-- 🌱 Currently learning [Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
+- 🌱 Currently learning [Terraform](https://www.terraform.io/)
 - 📖 Passionate reader of Bengali literature.
 
 <p align = "center">
@@ -24,7 +23,7 @@ I'm a recent Computer Science Master's graduate from York University, currently 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golamsaroar&hide=jupyter%20notebook,html&theme=graywhite&hide_border=true">
 </p>
 
-## 🔖 Featured Projects
+<!--## 🔖 Featured Projects
 
 <p align="center">
   <a href="https://github.com/golamSaroar/facial-expression-detection">
@@ -33,7 +32,7 @@ I'm a recent Computer Science Master's graduate from York University, currently 
   <a href="https://github.com/golamSaroar/python-interactive-dashboard">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=golamsaroar&repo=python-interactive-dashboard&theme=graywhite" />
   </a>
-</p>
+</p> -->
 
 ## 📫 How to Reach Me
 
