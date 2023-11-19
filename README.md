@@ -69,5 +69,5 @@ I'm a recent Computer Science Master's graduate from York University, currently 
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 18th, 2023, 1:47:22 AM
+Last Updated: Sunday, November 19th, 2023, 1:54:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
