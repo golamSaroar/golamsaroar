@@ -61,11 +61,6 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [golamSaroar/golamsaroar](https://github.com/golamSaroar/golamsaroar)<br>
-2. ⭐ Starred [golamSaroar/replication_fairness_without_demographics](https://github.com/golamSaroar/replication_fairness_without_demographics)<br>
-3. ❌ Closed PR [#2](https://github.com/golamSaroar/replication_causal_impact_for_app_releases/pull/2) in [golamSaroar/replication_causal_impact_for_app_releases](https://github.com/golamSaroar/replication_causal_impact_for_app_releases)<br>
-4. ✔️ Closed issue [#3](https://github.com/golamSaroar/replication_causal_impact_for_app_releases/issues/3) in [golamSaroar/replication_causal_impact_for_app_releases](https://github.com/golamSaroar/replication_causal_impact_for_app_releases)<br>
-5. ⬆️ Pushed 1 commit(s) to [golamSaroar/data_merge_tool](https://github.com/golamSaroar/data_merge_tool)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align = "center">
@@ -73,5 +68,5 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 30th, 2024, 2:02:01 AM
+Last Updated: Monday, July 1st, 2024, 2:05:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
