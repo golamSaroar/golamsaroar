@@ -61,7 +61,8 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stolostron/react-data-view](https://github.com/stolostron/react-data-view)<br>
+1. ⭐ Starred [udecode/plate](https://github.com/udecode/plate)<br>
+2. ⭐ Starred [stolostron/react-data-view](https://github.com/stolostron/react-data-view)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align = "center">
@@ -69,5 +70,5 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 17th, 2024, 1:44:12 AM
+Last Updated: Wednesday, September 18th, 2024, 2:07:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
