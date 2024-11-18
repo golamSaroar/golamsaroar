@@ -61,7 +61,8 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [udecode/plate](https://github.com/udecode/plate)<br>
+1. ⭐ Starred [hasanharman/form-builder](https://github.com/hasanharman/form-builder)<br>
+2. ⭐ Starred [udecode/plate](https://github.com/udecode/plate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align = "center">
@@ -69,5 +70,5 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 17th, 2024, 2:22:43 AM
+Last Updated: Monday, November 18th, 2024, 2:21:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
