@@ -70,5 +70,5 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 13th, 2024, 2:24:40 AM
+Last Updated: Saturday, December 14th, 2024, 2:19:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
