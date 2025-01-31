@@ -62,7 +62,6 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [golamSaroar/digt1027-tutorial3-starterkit](https://github.com/golamSaroar/digt1027-tutorial3-starterkit)<br>
-2. ⭐ Starred [hasanharman/form-builder](https://github.com/hasanharman/form-builder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align = "center">
@@ -70,5 +69,5 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 30th, 2025, 2:07:26 AM
+Last Updated: Friday, January 31st, 2025, 2:09:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
