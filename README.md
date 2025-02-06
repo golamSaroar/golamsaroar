@@ -61,7 +61,9 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [golamSaroar/digt1027-tutorial3-starterkit](https://github.com/golamSaroar/digt1027-tutorial3-starterkit)<br>
+1. ⬆️ Pushed 1 commit(s) to [golamSaroar/digt1027-lab3-starterkit](https://github.com/golamSaroar/digt1027-lab3-starterkit)<br>
+2. ⬆️ Pushed 1 commit(s) to [golamSaroar/digt1027-lab3-starterkit](https://github.com/golamSaroar/digt1027-lab3-starterkit)<br>
+3. 📔 Created new repository [golamSaroar/digt1027-tutorial3-starterkit](https://github.com/golamSaroar/digt1027-tutorial3-starterkit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align = "center">
@@ -69,5 +71,5 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 5th, 2025, 2:10:27 AM
+Last Updated: Thursday, February 6th, 2025, 2:10:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
