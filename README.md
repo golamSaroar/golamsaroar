@@ -63,7 +63,6 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [golamSaroar/digt1027-lab3-starterkit](https://github.com/golamSaroar/digt1027-lab3-starterkit)<br>
 2. ⬆️ Pushed 1 commit(s) to [golamSaroar/digt1027-lab3-starterkit](https://github.com/golamSaroar/digt1027-lab3-starterkit)<br>
-3. 📔 Created new repository [golamSaroar/digt1027-tutorial3-starterkit](https://github.com/golamSaroar/digt1027-tutorial3-starterkit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align = "center">
@@ -71,5 +70,5 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 25th, 2025, 2:15:10 AM
+Last Updated: Wednesday, February 26th, 2025, 2:14:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
