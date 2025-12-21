@@ -61,7 +61,6 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](undefined) in [Elim177/tf_frontend](https://github.com/Elim177/tf_frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <p align = "center">
@@ -69,5 +68,5 @@ I'm a Software Engineer with over four years of experience in the industry, curr
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 20th, 2025, 2:28:38 AM
+Last Updated: Sunday, December 21st, 2025, 2:53:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
