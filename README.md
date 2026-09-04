@@ -18,9 +18,9 @@ I'm a Full Stack Software Engineer in Toronto, Canada 🇨🇦 building RAG and 
 
 ## 📄 Publications
 
-- **GitHub Marketplace for Automation and Innovation in Software Production** — *Information and Software Technology*, 175 (2024): 107522. [[paper]](#)
-- **Developers' Perception of GitHub Actions: A Survey Analysis** — *EASE 2023*. [[paper]](#)
-- **A Comparative Approach to Email Classification Using Naive Bayes and Hidden Markov Model** — *ICAEE 2017 (IEEE)*. [[paper]](#)
+- [GitHub Marketplace for Automation and Innovation in Software Production](https://www.sciencedirect.com/science/article/pii/S0950584924001277) — *Information and Software Technology*, 175 (2024): 107522.
+- [Developers' Perception of GitHub Actions: A Survey Analysis](https://dl.acm.org/doi/10.1145/3593434.3593475) — *EASE 2023*.
+- [A Comparative Approach to Email Classification Using Naive Bayes and Hidden Markov Model](https://ieeexplore.ieee.org/abstract/document/8255404) — *ICAEE 2017 (IEEE)*.
 
 ## 🌱 Beyond code
 
