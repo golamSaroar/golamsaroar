@@ -1,72 +1,33 @@
-<p align="center">
- <img src="https://raw.githubusercontent.com/golamSaroar/golamsaroar/master/cover.png" alt="Sk Golam Saroar">
-</p>
+![Sk Golam Saroar](https://raw.githubusercontent.com/golamSaroar/golamsaroar/master/cover.png)
 
-<p align="center">
- <img src="https://img.shields.io/github/last-commit/golamSaroar/golamsaroar">
- <a href="https://github.com/golamSaroar?tab=repositories"><img src="https://img.shields.io/github/stars/golamSaroar?affiliations=OWNER%2CCOLLABORATOR&color=success"></a>
- <a href="https://github.com/golamsaroar/?tab=followers"><img src="https://img.shields.io/github/followers/golamsaroar?label=Followers&color=success"></a>
-</p>
+### Hi, I'm Saroar 👋
 
-I'm a Software Engineer with over four years of experience in the industry, currently living in Toronto, Canada :canada:. I am skilled in both frontend and backend development, and passionate about designing and building secure and scalable software systems. I am also interested in Machine Learning, and Data Science. I completed my Master's in Computer Science from York University in 2023.
+I'm a Full Stack Software Engineer in Toronto, Canada 🇨🇦 building RAG and agentic systems on top of a 7+ year full-stack foundation. I like working where engineering meets someone's actual problem: messy data, legacy systems, non-technical stakeholders - and shipping AI that people rely on, not demos that impress.
 
-## 🌯 Summary
+## 🔭 What I'm working on
 
-- 💻 Software Engineer with 4+ years of experience, Master's in Computer Science from York University.
-- 👨🏼‍💻 Skilled in Java, JavaScript, Python, SQL, Spring, React, Node, AWS, Docker, Kubernetes, Git, and more.
-- 💬 Open to questions about software engineering, machine learning, data science, and projects I've worked on.
-- 🌱 Currently learning [Terraform](https://www.terraform.io/)
-- 📖 Passionate reader of Bengali literature.
+- 🤖 An **internal AI knowledge assistant** that answers developer questions from codebases, tickets, docs, and Git history — hybrid retrieval (BM25 + dense vectors), cross-encoder reranking, intent routing, and an LLM-judge evaluation loop that rewrites its own prompts.
+- ✍️ A [**LinkedIn series**](https://www.linkedin.com/in/golamsaroar/) documenting that build honestly — retrieval, reranking, routers, meta-prompts, and the mistakes along the way.
+- 🎓 Teaching at **York University** — labs and tutorials across 17 CS courses, including programming for students with no software background.
 
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=golamsaroar&count_private=true&show_icons=true&theme=graywhite&line_height=27&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golamsaroar&hide=jupyter%20notebook,html&theme=graywhite&hide_border=true">
-</p>
+## 🧰 What I work with
 
-<!--## 🔖 Featured Projects
+- **AI / ML:** Python · LangChain / LangGraph · RAG · vector databases · embeddings · sentence-transformers · LLM evals · MCP · PyTorch · scikit-learn
+- **Engineering:** TypeScript / JavaScript · React / Next.js · Node.js · Java / Spring · PHP · SQL / PostgreSQL · React Native
+- **Platform:** AWS · Azure · Docker · Kubernetes · ArgoCD / GitOps · CI/CD · Elasticsearch
 
-<p align="center">
-  <a href="https://github.com/golamSaroar/facial-expression-detection">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=golamsaroar&repo=facial-expression-detection&theme=graywhite" />
-  </a>
-  <a href="https://github.com/golamSaroar/python-interactive-dashboard">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=golamsaroar&repo=python-interactive-dashboard&theme=graywhite" />
-  </a>
-</p> -->
+## 📄 Publications
 
-## 📫 How to Reach Me
+- **GitHub Marketplace for Automation and Innovation in Software Production** — *Information and Software Technology*, 175 (2024): 107522. [[paper]](#)
+- **Developers' Perception of GitHub Actions: A Survey Analysis** — *EASE 2023*. [[paper]](#)
+- **A Comparative Approach to Email Classification Using Naive Bayes and Hidden Markov Model** — *ICAEE 2017 (IEEE)*. [[paper]](#)
 
-<p align="center">
- <a href="http://golamsaroar.com/">
-  <img src="https://img.shields.io/badge/golamsaroar.com-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
- </a>
- <a href="https://www.linkedin.com/in/iamsaroar/">
-  <img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- <a href="mailto:emailsaroar@gmail.com">
-  <img src="https://img.shields.io/badge/email-%23C14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
- </a>
-</p>
+## 🌱 Beyond code
 
-<!-- ## 📈 My Programming Stats -->
+Passionate reader of Bengali literature 📖 and slowly working my way toward visiting 100 countries 🌍.
 
-<p align="center">
- <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coder GIF" width="500">
-</p>
+## 📫 How to reach me
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-## :zap: Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-<p align = "center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=golamSaroar" alt="GitHub Streak"></a>
-</p>
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 4th, 2026, 5:15:59 AM
-<!--RECENT_ACTIVITY:last_update_end-->
+[![Website](https://img.shields.io/badge/golamsaroar.com-%23206A5D.svg?&style=for-the-badge&logo=googlechrome&logoColor=white)](https://golamsaroar.com/)
+[![LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golamsaroar/)
+[![Email](https://img.shields.io/badge/email-%23C14438.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailsaroar@gmail.com)
